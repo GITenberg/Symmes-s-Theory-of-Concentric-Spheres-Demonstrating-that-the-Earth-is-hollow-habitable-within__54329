@@ -1,5 +1,8 @@
 _repo: Symmes-s-Theory-of-Concentric-Spheres-Demonstrating-that-the-Earth-is-hollow-habitable-within__54329
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54329-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54329#Symmes-s-Theory-of-Concentric-Spheres-Demonstrating-that-the-Earth-is-hollow-habitable-within_
 gutenberg_issued: '2017-03-09'
 gutenberg_type: Text
 identifiers:
